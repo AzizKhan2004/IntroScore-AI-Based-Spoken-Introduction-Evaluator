@@ -1,6 +1,7 @@
 # IntroScore-AI-Based-Spoken-Introduction-Evaluator
 A web application that evaluates a student’s spoken introduction using a transcript and a rubric. The tool accepts a text transcript, loads a rubric from Excel, applies a keyword-based scoring algorithm
 
+/// SIMPLY RUN DOWNLOAD THE ZIP AND RUN THE HTML FILE FROM THE FILE MANAGER TO REDIRECT ON THE UI PAGE ///
 🚀 How to Run the Application Locally
 
 Follow these steps to run the Spoken Introduction Evaluation System on your local machine:
