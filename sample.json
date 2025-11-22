@@ -1,0 +1,21 @@
+{
+  "word_count": 131,
+  "sentence_count": 11,
+  "overall_score": 86.0,
+  "overall_score_0_to_1": 0.86,
+  "criteria": [
+    {
+      "id": "salutation",
+      "category": "Content & Structure",
+      "name": "Salutation level",
+      "weight": 5,
+      "rule_score": 1.0,
+      "semantic_similarity": 0.88,
+      "combined_score": 0.94,
+      "keywords_found": ["hello", "everyone"],
+      "score_0_to_1": 0.94,
+      "score_weighted": 4.7
+    },
+    ...
+  ]
+}
